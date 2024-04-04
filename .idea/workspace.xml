@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d37dd73c-0b07-4bf9-b8e0-452256b64add" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/01.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.dart" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/01.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2eeDUt6aKirSDgrerrel8tTyInk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,12 +68,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Dart Command Line App.01.dart.executor": "Run",
+    "Dart Command Line App.02.dart.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/jp021/IdeaProjects/Ted_ap1_appmovies",
+    "last_opened_file_path": "C:/Users/jp021/IdeaProjects/Ted_ap1_appmovies/exercises",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -86,6 +89,14 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jp021\IdeaProjects\Ted_ap1_appmovies\exercises" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jp021\IdeaProjects\Ted_ap1_appmovies\exercises" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Ted_ap1_appmovies" />
@@ -118,7 +129,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712256168959</updated>
       <workItem from="1712256169970" duration="967000" />
-      <workItem from="1712257151659" duration="257000" />
+      <workItem from="1712257151659" duration="472000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
