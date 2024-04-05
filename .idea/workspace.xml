@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d37dd73c-0b07-4bf9-b8e0-452256b64add" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/exercises/02.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/03.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/04.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/05.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/06.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/07.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/08.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/09.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/10.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/01.dart" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/01.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +76,7 @@
     "Dart Command Line App.03.dart.executor": "Run",
     "Dart Command Line App.04.dart.executor": "Run",
     "Dart Command Line App.05.dart.executor": "Run",
+    "Dart Command Line App.06.dart.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
@@ -87,6 +88,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -122,7 +124,9 @@
       <updated>1712256168959</updated>
       <workItem from="1712256169970" duration="967000" />
       <workItem from="1712257151659" duration="573000" />
-      <workItem from="1712323244707" duration="1062000" />
+      <workItem from="1712323244707" duration="1173000" />
+      <workItem from="1712336021905" duration="1127000" />
+      <workItem from="1712337171003" duration="404000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -152,5 +156,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
